@@ -1441,7 +1441,7 @@ h2 {
   position: relative;
 }
 .samples__img img:nth-child(2) {
-  display: none;
+  /* display: none; */
 }
 .samples__link {
   text-align: center;
